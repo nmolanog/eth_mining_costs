@@ -1,0 +1,11 @@
+name: eth_mining_profitability
+title:
+username:
+account: nicolas-molano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6619913
+bundleId: 6086209
+url: https://nicolas-molano.shinyapps.io/eth_mining_profitability/
+when: 1657492762.58553
+lastSyncTime: 1657492762.58556
