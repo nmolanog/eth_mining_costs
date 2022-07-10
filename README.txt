@@ -1,0 +1,1 @@
+Project to assess ETH mining profitability.
